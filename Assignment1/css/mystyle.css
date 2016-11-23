@@ -1,0 +1,48 @@
+.head{
+  background-color: #466E8D;
+  width: 1300px;
+  position: fixed;
+  padding-top: 0px;
+}
+.container_12{
+  padding-top: 150px;
+}
+ul{
+  color: #000;
+}
+.head li{
+display: inline;
+font-family: 'Lora', serif;
+}
+.head a{
+  color: white;
+}
+footer a{
+  color: black;
+}
+h5{
+  font-family: 'Trirong', serif;
+}
+p{
+  font-family: 'Lora', serif;
+}
+.footer_class{
+  background-color: #466E8D;
+  padding-top: 0px;
+}
+.footer_class h5{
+  color: white;
+}
+.footer_class li{
+  display: inline;
+
+}
+
+#main2{
+
+  padding-top: 0px;
+}
+#main3{
+
+  padding-top: 0px;
+}
